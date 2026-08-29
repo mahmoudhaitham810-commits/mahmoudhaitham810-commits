@@ -74,17 +74,7 @@ Projects involving data cleaning, analysis, pivot tables, and extracting useful 
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudhaitham810-commits&show_icons=true&theme=tokyonight&hide_border=true" alt="Mahmoud's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudhaitham810-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
