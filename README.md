@@ -1,85 +1,35 @@
-# Hey 👋, I'm Mahmoud Haitham!
+# Mahmoud Haitham
 
-🎓 Computer Science & Artificial Intelligence Student at **Cairo University**
+Full-stack web developer and data analyst, based in Egypt. I build websites and web apps for clients, and I work with data when a project needs it — cleaning messy spreadsheets, building dashboards, or pulling insights out of raw numbers.
 
-💻 Interested in **Web Development & Data Analysis**
-
-I’m a Computer Science and Artificial Intelligence student who enjoys learning programming, building web projects, and working with data.
-
-I'm continuously improving my technical skills through practical projects and hands-on learning.
+I'm a Computer Science & AI student at Cairo University, but this isn't a student portfolio — I take on real projects and deliver working results, not half-finished demos.
 
 ---
 
-### 🧐 About Me
+## What I do
 
-* 🎓 Studying **Computer Science & Artificial Intelligence** at Cairo University
-* 🌐 Interested in **Web Development**
-* 📊 Learning and practicing **Data Analysis**
-* 💻 Working with **C++ and Python**
-* 🎨 Building websites using **HTML & CSS**
-* 🚀 Always learning and improving my programming skills
-* 👨‍💻 Most of my projects are available on my GitHub
-
----
-
-### 🔨 Languages & Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,python" />
-</p>
-
-**Programming & Development**
-
-* HTML
-* CSS
-* C++
-* Python
+**Web Development**
+I build clean, functional websites and web interfaces — from a landing page to a small business site to a working REST API backend. I care about code that's readable and actually maintainable, not just code that runs once and gets abandoned.
 
 **Data Analysis**
-
-* Data Cleaning
-* Data Exploration
-* Excel
-* Pivot Tables
-* Data Visualization
-* Extracting insights from datasets
+I take raw, messy data and turn it into something a business can act on — cleaned datasets, pivot tables, Power BI dashboards, and clear visualizations that answer a real question instead of just looking nice.
 
 ---
 
-### 📊 Data Analysis
+## Tools I work with
 
-I'm currently developing my skills in **Data Analysis**, working with datasets to clean, explore, analyze, and visualize data.
-
-I'm interested in turning raw data into meaningful insights that can help support better decisions.
+`Python` · `C++` · `REST APIs` · `Git & GitHub` · `Excel (advanced/pivot tables)` · `Power BI` · `Data Cleaning & Visualization`
 
 ---
 
-### 🛠️ Projects
+## Recent work
 
-Here are some of the projects and experiments I've worked on:
-
-🔹 **Web Development Projects**
-Websites and interfaces built using HTML and CSS.
-
-🔹 **C++ Projects**
-Programming projects focused on strengthening problem-solving and programming fundamentals.
-
-🔹 **Python Projects**
-Small applications and programming exercises built while learning Python.
-
-🔹 **Data Analysis Projects**
-Projects involving data cleaning, analysis, pivot tables, and extracting useful insights from datasets.
-
-👉 Check out my repositories to see my work and progress.
+Repositories below — updating regularly as new projects come in. If you don't see exactly what you need, message me; I'm happy to share more examples on request.
 
 ---
 
+## Working with me
 
+I'm currently taking on freelance projects — web development, data cleaning, or dashboard/reporting work. If you have a project in mind, reach out and tell me what you're trying to build; I'll tell you honestly whether it's something I can do well.
 
-### 📫 Connect With Me
-
-🐙 **GitHub:** [mahmoudhaitham810-commits](https://github.com/mahmoudhaitham810-commits)
-
----
-
-⭐ Thanks for visiting my profile!
+📫 GitHub: [mahmoudhaitham810-commits](https://github.com/mahmoudhaitham810-commits)
